@@ -29,13 +29,13 @@ from titles import get_title
 # Constant variables (Config variables)
 # ─────────────────────────────────────────────────────────────
 # Token for bot token
-TOKEN: str = "Bot Token"
+TOKEN: str = "7381512423:AAHId3hjjyI8_kXCfzyU2GgpYtr_DLEN96k"
 
 # Support or sponsor group ID
-GROUP: str = "@Sponsor group username"
+GROUP: str = "@Ahjin_sprt"
 
 # Chat-ID of support admin to send errors 
-SUPPORT: int = 1234567890
+SUPPORT: int = -1001954250369
 
 # Regular expression for Anti-Link
 LINK_REGIX: str = r"(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?"
