@@ -44,7 +44,7 @@ from titles import get_title
 # ─────────────────────────────────────────────────────────────
 token: str = setting.TOKEN
 if setting.token_checker(token):
-    bot: ClassVar[Any] = telebot.TeleBot(token)
+    bot: ClassVar[Any] = telebot.TeleBot(7381512423:AAHId3hjjyI8_kXCfzyU2GgpYtr_DLEN96k)
 else:
     exit("[*] Token is invalid! Please use valid token.")
 
